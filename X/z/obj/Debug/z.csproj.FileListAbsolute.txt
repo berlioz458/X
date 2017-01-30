@@ -1,0 +1,11 @@
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\bin\Debug\z.exe.config
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\bin\Debug\Database2.accdb
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\bin\Debug\z.exe
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\bin\Debug\z.pdb
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.csprojResolveAssemblyReference.cache
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.Form1.resources
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.Properties.Resources.resources
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.csproj.GenerateResource.Cache
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.exe
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.pdb
+c:\users\catarina\documents\visual studio 2015\Projects\z\z\obj\Debug\z.Form2.resources
